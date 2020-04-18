@@ -1,3 +1,5 @@
+// BEI MELDUNG _CRT_SECURE_NO_WARNINGS: Menüleiste Projekt -> C/C++ -> Präprozessor -> Präprozessordefinitionen -> Bearbeiten -> _CRT_SECURE_NO_WARNINGS in eine neue Zeile einfügen
+
 #include <stdio.h>
 #include <stdlib.h>
 
